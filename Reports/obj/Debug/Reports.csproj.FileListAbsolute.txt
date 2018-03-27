@@ -1,0 +1,46 @@
+C:\Users\Harun\Desktop\Reports\Reports\bin\Debug\Reports.exe.config
+C:\Users\Harun\Desktop\Reports\Reports\bin\Debug\Reports.exe
+C:\Users\Harun\Desktop\Reports\Reports\bin\Debug\Reports.pdb
+C:\Users\Harun\Desktop\Reports\Reports\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Harun\Desktop\Reports\Reports\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Harun\Desktop\Reports\Reports\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Reports\Reports\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Reports\Reports\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Reports\Reports\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Reports\Reports\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Reports\Reports\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Reports\Reports\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Reports\Reports\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Reports\Reports\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Reports\Reports\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Reports\Reports\obj\Debug\Reports.csprojResolveAssemblyReference.cache
+C:\Users\Harun\Desktop\Reports\Reports\obj\Debug\Reports.Form1.resources
+C:\Users\Harun\Desktop\Reports\Reports\obj\Debug\Reports.Properties.Resources.resources
+C:\Users\Harun\Desktop\Reports\Reports\obj\Debug\Reports.csproj.GenerateResource.Cache
+C:\Users\Harun\Desktop\Reports\Reports\obj\Debug\Reports.exe
+C:\Users\Harun\Desktop\Reports\Reports\obj\Debug\Reports.pdb
+C:\Users\Harun\Desktop\Reports\Reports\obj\Debug\RdlCompile.cache
+C:\Users\Harun\Desktop\Reports\Reports\obj\Debug\RdlCompile.compiled
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\bin\Debug\Reports.exe.config
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\obj\Debug\Reports.exe
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\obj\Debug\Reports.pdb
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\bin\Debug\Reports.exe
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\bin\Debug\Reports.pdb
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\obj\Debug\Reports.csprojResolveAssemblyReference.cache
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\obj\Debug\Reports.Form1.resources
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\obj\Debug\Reports.Properties.Resources.resources
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\obj\Debug\Reports.csproj.GenerateResource.Cache
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\obj\Debug\RdlCompile.cache
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\Ödev\Report\Reports\Reports\obj\Debug\RdlCompile.compiled
